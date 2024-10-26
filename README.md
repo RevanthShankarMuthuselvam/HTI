@@ -19,7 +19,7 @@ The output is a nested json where the first level represents the 'CAR TYPE' and 
 Output JSON
 ├─── Car Type
 │    └─── Day
-      └─── Hour
-        └─── Average speed value
+|       └─── Hour
+|          └─── Average speed value
 ```
 
