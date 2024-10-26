@@ -1,4 +1,4 @@
-# HTI
+# RESTful API - Python
 This section of code is to create a RESTful API using Python which transmit the input CSV file data into a transformed version.
 
 ## Python as FLASK server
